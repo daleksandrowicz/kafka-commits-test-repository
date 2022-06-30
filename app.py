@@ -4,3 +4,4 @@ if __name__ == "__main__":
   print("test3")
   print("test4")
   print("test5")
+  print("test6")
